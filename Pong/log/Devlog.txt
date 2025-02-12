@@ -1,0 +1,8 @@
+1/9/25 - Thursday
+ - Background / basic setup
+ - Ball movement
+ - Player movement
+ - Opponent movement
+1/10/25 - Friday
+ - Added Score
+ - Save Score
