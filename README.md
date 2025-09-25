@@ -13,9 +13,10 @@ A good learning experience on a medium scale python project.
 ## Installation & Setup
 1. **Clone this repository**
 2. **Create a virtual environment**
+```bash
  - python -m venv venv
  - venv\Scripts\activate
-3. **Install dependencies**
+3. **Install dependencies**```
  - pip install -r requirements.txt
 4. **Run the game**
  - python pong/code/main.py
