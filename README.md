@@ -11,12 +11,12 @@ A good learning experience on a medium scale python project.
  - Opponent physics
  - Light weight - runs in python with pygame-ce
 ## Installation & Setup
-1. **1. Clone this repository**
-2. **2. Create a virtual environment**
+1. **Clone this repository**
+2. **Create a virtual environment**
  - python -m venv venv
-    b. venv\Scripts\activate
-**3. Install dependencies**
-    a. pip install -r requirements.txt
-**4. Run the game**
-    a. python pong/code/main.py
+ - venv\Scripts\activate
+3. **Install dependencies**
+ - pip install -r requirements.txt
+4. **Run the game**
+ - python pong/code/main.py
     
