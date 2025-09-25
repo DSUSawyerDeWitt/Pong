@@ -12,7 +12,7 @@ A good learning experience on a medium scale python project.
  - Light weight - runs in python with pygame-ce
 ## Installation & Setup
 **`1.` Clone this repository**
-**2. Create a virtual environment**
+**`2.` Create a virtual environment**
 python    a. python -m venv venv
     b. venv\Scripts\activate
 **3. Install dependencies**
