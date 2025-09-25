@@ -13,7 +13,7 @@ A good learning experience on a medium scale python project.
 ## Installation & Setup
 **1. Clone this repository**
 **2. Create a virtual environment**
-    a. python -m venv venv
+```python    a. python -m venv venv
     b. venv\Scripts\activate
 **3. Install dependencies**
     a. pip install -r requirements.txt
